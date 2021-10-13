@@ -1,0 +1,17 @@
+/* legend {
+    font-size: 60px;
+    background-color: rgba(#ba8c3a, 1);
+} */
+
+.label {
+    font-size: 60px;
+    color: rgba(52, 154, 217, 1);
+}
+
+.control {
+    font-size: 60px;
+    width: 400px;
+    height: 30px;
+    background-color: rgba(138, 132, 214, 1);
+    border-radius: 15px;
+}
